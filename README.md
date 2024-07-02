@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shawn</h1>
 <h3 align="center">A highly motivated web developer from Bangladesh</h3>
+<img align='right' alt='coding' width='400' src='https://i.ibb.co/j8Cwxs4/gitimage.jpg' >
 
 - 🌱 I’m currently learning **Next.Js,**
 
